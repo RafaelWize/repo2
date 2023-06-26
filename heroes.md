@@ -14,3 +14,4 @@
 * heroe nuevo
 * Capitán Planeta
 * simular cambios
+*cambios en otra PR
